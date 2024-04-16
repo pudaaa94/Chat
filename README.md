@@ -1,5 +1,9 @@
 Main purpose of this project was practicing of C++ skills.
 
+PREREQUISITES
+
+Installed Boost Asio library
+
 HOW TO RUN?
 
 Open multiple Command Prompts and in each of it run one of following Chat.exe commands (there should be exactly one command for starting of server and up to ten commands for starting of clients):
