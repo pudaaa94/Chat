@@ -29,7 +29,7 @@ In order to chat with puda, user will write following in its terminal:
 
 puda:hello
 
-Server will now that this message came from user and will route it to puda (it's terminal will look like this):
+Server will know that this message came from user and will route it to puda (it's terminal will look like this):
 
 Received from server: user:hello
 
