@@ -2,7 +2,7 @@ Main purpose of this project was practicing of C++ skills.
 
 HOW TO RUN?
 
-Open multiple Command Prompts and in each of it run Chat.exe in following way:
+Open multiple Command Prompts and in each of it run one of following Chat.exe commands (there should be exactly one command for starting of server and up to ten commands for starting of clients):
 
 Chat.exe s
 (this command will start a process which will represent a server for Chat platform)
